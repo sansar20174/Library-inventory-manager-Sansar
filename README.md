@@ -4,6 +4,10 @@ Name: Sansar Kumar
 
 Roll no.: 2501350055
 
+Programme: B. Tech CSE (Full Stack Development) 
+
+Section: B 
+
 Course: Programming for Problem Solving using Python
 
 Assignment - 03 : Library Inventory Manager
