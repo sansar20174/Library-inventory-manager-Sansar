@@ -63,7 +63,12 @@ Or paste a larger dataset (e.g., 20 books).
 
 ## 📦 Requirements
 
-This project uses only the Python standard library.
+1. Use Book model with tiile, author, ISBN.
+2. Store and load book data from a JSON file.
+3. Use Object-Oriented Programming (OOP) with Book and Inventory classes.
+4. Use only Python standard library, no external dependencies.
+5. Provide a command-line interface (CLI) menu for user interaction.
+6. Handle errors gracefully (e.g., issuing a book with no available copies).
 
 
 ---
