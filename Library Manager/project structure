@@ -1,0 +1,18 @@
+Library Manager/
+│── cli/
+│ ├── init.py
+│ ├── main.py
+│
+│── data/
+│ └── books.json
+│
+│── library_manager/
+│ ├── init.py
+│ ├── book.py
+│ ├── inventory.py
+│ ├── utils.py
+│
+│── README.md
+│── requirements.txt
+│── .gitignore
+├── project_structure

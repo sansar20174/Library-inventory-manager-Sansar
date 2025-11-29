@@ -1,0 +1,142 @@
+[
+    {
+        "isbn": "9780000000001",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "total_copies": 5,
+        "issued_copies": 2
+    },
+    {
+        "isbn": "9780000000002",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "total_copies": 4,
+        "issued_copies": 1
+    },
+    {
+        "isbn": "9780000000003",
+        "title": "1984",
+        "author": "George Orwell",
+        "total_copies": 6,
+        "issued_copies": 3
+    },
+    {
+        "isbn": "9780000000004",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "total_copies": 3,
+        "issued_copies": 1
+    },
+    {
+        "isbn": "9780000000005",
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "total_copies": 4,
+        "issued_copies": 0
+    },
+    {
+        "isbn": "9780000000006",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "total_copies": 7,
+        "issued_copies": 4
+    },
+    {
+        "isbn": "9780000000007",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "total_copies": 6,
+        "issued_copies": 2
+    },
+    {
+        "isbn": "9780000000008",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "total_copies": 5,
+        "issued_copies": 1
+    },
+    {
+        "isbn": "9780000000009",
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "total_copies": 2,
+        "issued_copies": 1
+    },
+    {
+        "isbn": "9780000000010",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "total_copies": 4,
+        "issued_copies": 0
+    },
+    {
+        "isbn": "9780000000011",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "total_copies": 9,
+        "issued_copies": 6
+    },
+    {
+        "isbn": "9780000000012",
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "total_copies": 8,
+        "issued_copies": 3
+    },
+    {
+        "isbn": "9780000000013",
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "total_copies": 5,
+        "issued_copies": 1
+    },
+    {
+        "isbn": "9780000000014",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "total_copies": 4,
+        "issued_copies": 1
+    },
+    {
+        "isbn": "9780000000015",
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "total_copies": 7,
+        "issued_copies": 4
+    },
+    {
+        "isbn": "9780000000016",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "total_copies": 10,
+        "issued_copies": 7
+    },
+    {
+        "isbn": "9780000000017",
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "total_copies": 5,
+        "issued_copies": 2
+    },
+    {
+        "isbn": "9780000000018",
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "total_copies": 6,
+        "issued_copies": 3
+    },
+    {
+        "isbn": "9780000000019",
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "total_copies": 4,
+        "issued_copies": 1
+    },
+    {
+        "isbn": "9780000000020",
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "total_copies": 5,
+        "issued_copies": 1
+    }
+]
